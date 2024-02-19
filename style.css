@@ -1,0 +1,49 @@
+.heading{
+    width:100%;
+    text-align: left;
+    font-family: 'Press Start 2P', cursive;
+    color:rgb(11, 35, 213);
+    background-color: rgb(255, 208, 0);
+}
+.heading h3{
+    display: inline;
+
+}
+.heading button{
+    float: right;
+    border:1px rgb(75, 17, 98);
+    color: rgb(26, 175, 39);
+    background-color: rgb(246, 25, 25);
+}
+.big_image{
+    width:40%;
+}
+#start{
+    font-size: 22px;
+    font-family: 'Press Start 2P', cursive;
+}
+h4{
+    background-color: rgb(161, 11, 231);
+    line-height: 2;
+    margin: 0px;
+    color:rgb(255, 191, 0);
+    font-family: 'Press Start 2P', cursive;
+}
+.modal-dialog{
+    width:90%;
+}
+.instruction_img{
+    display:inline-block;
+    width:45%;
+}
+
+body{
+    background-size:cover;
+    background-position: center;
+}
+video{
+    background: url(marioconsole.png);
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
